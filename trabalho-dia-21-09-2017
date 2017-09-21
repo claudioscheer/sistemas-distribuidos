@@ -1,0 +1,2 @@
+1º - O cliente do socket tem que operar de forma assíncrona e não bloqueante. (tcp-client-03.py)
+2º - O servidor do socket precisa atender qualquer quantidade de clientes ao mesmo tempo. (tcp-server-03.py)
